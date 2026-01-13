@@ -1,5 +1,7 @@
 # Bike Website
 
+[DEMO LINK](https://0-nira-0.github.io/layout_landing-page/)
+
 ## Project Description
 
 This project is a responsive website dedicated to bicycles. It was built using HTML and SCSS, following the BEM methodology to ensure a clear, scalable, and maintainable code structure.
